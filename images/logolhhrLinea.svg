@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#ff7f00" height="65" id="svg_1" stroke="#ffff56" width="139.999996" x="38.5" y="37.5"/>
+  <text fill="#4c4c4c" font-family="serif" font-size="24" id="svg_2" stroke="#ffff56" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(1.35655 0 0 1.46154 -18.1226 -25.1538)" x="84.5" xml:space="preserve" y="75.5">LHHR</text>
+  <path d="m144.782494,68.574163l28.999998,0l0,28.999998l-28.999998,0l0,-28.999998zm3.383333,-25.616665l0,22.233332l22.233332,0l0,-22.233332l-22.233332,0z" fill="#4c4c4c" id="svg_3" stroke="#ffff56"/>
+ </g>
+</svg>
